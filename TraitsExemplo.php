@@ -56,4 +56,3 @@ print '<br>';
 print $pr->helloMy();//Alias para o método "hello" da "MyTrait" 
 print '<br>';
 print $pr->showName("Madara Nagato");
-print $pr->test();
